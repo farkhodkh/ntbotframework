@@ -1,8 +1,8 @@
 package ru.haknazarovfarkhod.ntbotframework.application;
 
 public class ApplicationParameters {
-    private final String APP_ID = "571b780f-3d94-493c-a22f-2442fa72e9bc";
-    private final String APP_SECRET = "tnfqYU168-darATVNM36}?!";
+    private final String APP_ID = "";
+    private final String APP_SECRET = "";
 
     public static void ApplicationParameters() {
 
